@@ -2,7 +2,7 @@
 ## O modo que fiz: eu apenas assisti o primeiro vídeo e tentei fazer eu mesmo, saiu algo diferente, eu fiz dessa formazinha!
 *  Primeiro fiz a pesquisa com Cep's e todos os resultados colocava apenas em um .Json, pulando as linhas a cada parte;
 *  E mudei o nome de algumas variáveis.
-## Infelizmente não tive muito tempo, mas fiz com bastante atenção e tentei deixar o mais redondinho possível, obrigado pela atenção!
+## Infelizmente não tive muito tempo, mas tentei deixar o mais redondinho possível, obrigado pela atenção!
 ![Thumb para usar](https://github.com/RafaelRChar/AluraDesafio/blob/main/Thumb-Cute.gif)
 
 # Desafio
