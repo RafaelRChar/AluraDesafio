@@ -1,0 +1,51 @@
+[
+{
+  "cep": "96501-000",
+  "logradouro": "Avenida Júlio de Castilhos",
+  "complemento": "lado par",
+  "localidade": "Cachoeira do Sul",
+  "uf": "RS"
+},
+{
+  "cep": "96501-012",
+  "logradouro": "Avenida Brasil",
+  "complemento": "de 280 a 798 - lado par",
+  "localidade": "Cachoeira do Sul",
+  "uf": "RS"
+},
+{
+  "cep": "96501-062",
+  "complemento": "até 1828/1829",
+  "localidade": "Cachoeira do Sul",
+  "logradouro": "Rua Dona Hermínia",
+  "uf": "RS"
+},
+{
+  "cep": "13068-023",
+  "logradouro": "Rua João Coelho",
+  "complemento": "",
+  "localidade": "Campinas",
+  "uf": "SP"
+},
+{
+  "cep": "96501-000",
+  "logradouro": "Avenida Júlio de Castilhos",
+  "complemento": "lado par",
+  "localidade": "Cachoeira do Sul",
+  "uf": "RS"
+},
+{
+  "cep": "13061-155",
+  "logradouro": "Rodovia Anhangüera",
+  "complemento": "do km 95,173 ao km 97,801 - lado ímpar",
+  "localidade": "Campinas",
+  "uf": "SP"
+},
+{
+  "cep": "47806-421",
+  "logradouro": "Rua das Acácias",
+  "complemento": "",
+  "localidade": "Barreiras",
+  "uf": "BA"
+}
+]
